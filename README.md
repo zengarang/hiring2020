@@ -164,6 +164,7 @@ This document will be updated regularly as new information becomes available.
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |PluralSight|❌||
+|Pratt & Whitney|❌ |Summer internships anf co-ops cancelled|
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
 |PSB|❌ |Need confirmation|
